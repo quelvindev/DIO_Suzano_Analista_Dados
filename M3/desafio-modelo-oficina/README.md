@@ -20,6 +20,6 @@
 
   
 
-Por [Quelvin Carvalho](https://www.linkedin.com/in/quelvin-carvalho-5b9b40102/)
+Por [Quelvin Carvalho](https://www.linkedin.com/in/quelvincarvalho)
 
-Arquivo está disponibilizado no [Github](https://github.com/Quelvin/modelo-oficina-dio.git) :file_folder:
+Arquivo está disponibilizado no [Github](https://github.com/quelvindev/DIO_Suzano_Analista_Dados/tree/main/M3/desafio-modelo-oficina) :file_folder:
