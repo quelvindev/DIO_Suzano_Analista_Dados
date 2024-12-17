@@ -6,6 +6,6 @@
  
 
 Por [Quelvin Carvalho](https://www.linkedin.com/in/quelvincarvalho/)
-Arquivo está disponibilizado no [Github](https://github.com/Quelvin/modelo-ecommerce-dio) :file_folder:
+Arquivo está disponibilizado no [Github](https://github.com/quelvindev/DIO_Suzano_Analista_Dados/tree/main/M3/desafio-modelo-ecommerce) :file_folder:
 
 
