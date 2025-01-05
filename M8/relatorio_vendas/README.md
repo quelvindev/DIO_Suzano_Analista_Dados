@@ -9,6 +9,8 @@ Dica: Se o expert forneceu um repositório Github, você pode dar um "fork" no r
 ## Instruções para o desenvolvimento
  
 [Projeto de Data Analytics com Power BI](https://academiapme-my.sharepoint.com/personal/renato_dio_me/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Frenato%5Fdio%5Fme%2FDocuments%2FDigital%20Innovation%20One%2Fslides%20aulas%20diversas%2FTrilhas%2FPower%20Bi%2FM%C3%B3dulo%205%20%2D%20Data%20Analytics%20%26%20Storytelling%20com%20Power%20BI%2FProjeto%20de%20Data%20Analytics%20com%20Power%20BI&ga=1)
+
+[Paleta de Cores Utilizada](https://www.color-hex.com/color-palette/6203)
  
  
 
@@ -29,4 +31,7 @@ Dica: Se o expert forneceu um repositório Github, você pode dar um "fork" no r
 
  
 Bons estudos 😉
+
+
+![](/M8/relatorio_vendas/img/telas/home.png)
 
